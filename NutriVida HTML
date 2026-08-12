@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<title>NutriVida</title>
+<header>
+	<img src="dhflfhgrtyjyt.jpeg"/> <h1>NutriVida</h1> <p>Tu guía de alimentación saludable</p>
+	
+</header>
+<nav>
+    <a href="#definicion">Nutrición: ¿Qué es?</a>
+    <a href="#consejos">Consejos Saludables</a>
+    <a href="#recetas">Recetas Saludables</a>
+</nav>
+
+<h1>Somos NutriVida</h1>
+<p>NutriVida es un espacio dedicado a promover una alimentación consciente, accesible y basada en evidencia, pensado para quienes desean mejorar su bienestar día a día. Aquí encontrarás consejos claros que te ayudarán a construir hábitos saludables sin complicaciones. Nuestro objetivo es acompañarte en el camino hacia una vida más equilibrada, plena y sostenible.</p>
+
+<section id="definicion">
+    <div class="card">
+        <h2>¿Qué es la nutrición?</h2>
+        <p>La nutrición es el proceso biológico mediante el cual tu cuerpo obtiene, transforma y utiliza los nutrientes de los alimentos para vivir, crecer, repararse y mantener todas sus funciones vitales. En términos simples: es todo lo que ocurre dentro del organismo después de comer. </p>
+
+<iframe width="560" height="315" src="videoplayback (6).mp4" accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+</section>
+
+<section id="consejos">
+    <div class="card">
+        <h2>Consejos saludables</h2>
+        <p>
+<li><h3>Hidratación diaria</h3>Mantener un consumo adecuado de agua favorece la digestión, la concentración y el equilibrio energético. Se recomienda entre 6 y 8 vasos al día, ajustando según actividad física y clima.</li>
+
+<li><h3>Platos equilibrados</h3>Combina verduras, una fuente de proteína (animal o vegetal), carbohidratos complejos y grasas saludables. Esta estructura ayuda a mantener saciedad y estabilidad metabólica.</li>
+
+<li><h3>Frutas y verduras</h3>Consumir al menos cinco porciones diarias aporta fibra, vitaminas y antioxidantes que fortalecen el sistema inmunológico.</li>
+
+<li><h3>Grasas saludables</h3>Prioriza aguacate, frutos secos, semillas y aceite de oliva. Estas grasas favorecen la salud cardiovascular y la función cerebral.</li>
+
+<li><h3>Azúcares y procesados</h3>Limitar el consumo de productos ultraprocesados ayuda a prevenir picos de glucosa, inflamación y aumento de peso.</li>
+
+<li><h3>Porciones conscientes</h3>Comer despacio y reconocer señales de hambre y saciedad evita excesos y mejora la relación con los alimentos.</li>
+
+<li><h3>Planificación semanal</h3>Organizar menús y compras reduce el estrés, mejora la calidad de las comidas y evita recurrir a opciones poco saludables.</li>
+	</p>
+        <img src="escenasaludable.avif"/>
+    </div>
+</section>
+
+<section id="recetas">
+    <div class="card">
+        <h2>Recetas Saludables</h2>
+        <p>
+<li><h3>Ensalada energética</h3>Mezcla espinaca fresca, quinoa cocida, tomate cherry, pepino y un toque de limón con aceite de oliva. Rica en fibra y perfecta para el almuerzo.</li>
+
+<li><h3>Smoothie verde</h3>Licúa espinaca, manzana verde, pepino, jengibre y agua. Ideal para comenzar el día con vitaminas y frescura.</li>
+
+<li><h3>Pollo al horno con hierbas</h3>Pollo marinado con romero, ajo y limón, acompañado de verduras asadas. Alto en proteína y bajo en grasas.</li>
+
+<li><h3>Tazón de avena</h3>Avena cocida con leche o bebida vegetal, frutas frescas y semillas. Una opción saciante para el desayuno.</li>
+
+<li><h3>Wrap integral</h3>Tortilla integral rellena de hummus, lechuga, zanahoria y pechuga de pollo. Práctico y balanceado para llevar.</li>
+	</p>
+        <img src="alimentossaludables.jpg"/>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Nutrivida | nutrividameds@gmail.com</p> | +503 2344 3434</p>
+</footer>
+
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 20px;
+        }
+        header {
+	    background-color: #4CAF50;
+	    border-radius: 8px;
+            color: white;
+            padding: 20px;
+		img {
+		    width: 100px;
+		    margin: 0;
+		}
+            text-align: left;
+        }
+        nav {
+            background-color: #333;
+	    border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .card {
+            background-color: white;
+            padding: 30px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 300px;
+            border-radius: 8px;
+	    display: block;
+	    margin: 0 auto;
+        }
+        footer {
+            background-color: #333;
+	    border-radius: 8px;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+	video {
+	    width: 300px;
+	    display: block;
+	    margin: 0 auto;
+	    border_radius: 8px;
+	}
+    </style>
+
+</html>
